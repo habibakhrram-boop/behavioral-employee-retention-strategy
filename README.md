@@ -76,4 +76,4 @@ These are scenario calculations for prioritization, not forecasts.
 - Basic economic scenario analysis
 - Strategy recommendation design
 - Professional report writing
-- **(All details in this README was narrated by Chatgpt-4o; However, the contents are Authentic and are naturally created)**
+- **(All details in this README were narrated by Chatgpt-4o; However, the contents and project are Authentic and are naturally created)**
